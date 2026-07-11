@@ -1,4 +1,4 @@
-﻿# PitWise releases
+# PitWise releases
 
 This repository hosts **only the version manifest** (`version.json`) used by the PitWise app to notify customers about new versions.
 
