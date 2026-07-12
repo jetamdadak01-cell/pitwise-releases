@@ -1,4 +1,6 @@
 {
-  "version": "2.19.2",
-  "notes": "Novinky: inzenyr si te pamatuje (trvala pamet + vztah), uci se z tvych hodnoceni rad, drsnak 2.0, zive rozestupy v ACC. / New: persistent engineer memory and relationship, learns from your feedback, tougher tough-guy, live ACC gaps."
+    "exe":  "https://raw.githubusercontent.com/jetamdadak01-cell/pitwise-releases/main/PitWise.exe",
+    "version":  "2.19.3",
+    "ps1":  "https://raw.githubusercontent.com/jetamdadak01-cell/pitwise-releases/main/PitWise.ps1",
+    "notes":  "Feedback se odesila primo z aplikace (offline fronta) / Feedback now sends fully in-app with an offline queue"
 }
