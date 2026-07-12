@@ -1,6 +1,4 @@
 {
-    "exe":  "https://raw.githubusercontent.com/jetamdadak01-cell/pitwise-releases/main/PitWise.exe",
-    "version":  "2.19.3",
-    "ps1":  "https://raw.githubusercontent.com/jetamdadak01-cell/pitwise-releases/main/PitWise.ps1",
-    "notes":  "Feedback se odesila primo z aplikace (offline fronta) / Feedback now sends fully in-app with an offline queue"
+    "version":  "2.19.4",
+    "notes":  "Licencni klic pro aktualizace (Nastaveni \u003e Aplikace) - stahovani novych verzi je nyni chranene licenci / License-protected updates: enter your Payhip license key in Settings \u003e Application"
 }
