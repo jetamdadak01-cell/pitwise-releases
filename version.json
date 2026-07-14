@@ -1,4 +1,4 @@
 {
-    "version":  "2.20.0",
-    "notes":  "Weather radar (ACC + F1 23), voice car control, auto pit-stop, free Gemini AI, SimHub port sharing, voice fixes"
+    "version":  "2.21.0",
+    "notes":  "Inzenyr ovlada vuz i v AC a LMU, klavesy si do hry zapise sam; hlasi sebrane kolo a penalizace; mapa s cisly zatacek a legendou; overlay HUD; auto-pitstop v iRacingu"
 }
