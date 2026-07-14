@@ -1,4 +1,4 @@
 {
-    "version":  "2.21.0",
-    "notes":  "Inzenyr ovlada vuz i v AC a LMU, klavesy si do hry zapise sam; hlasi sebrane kolo a penalizace; mapa s cisly zatacek a legendou; overlay HUD; auto-pitstop v iRacingu"
+    "version":  "2.21.1",
+    "notes":  "Zoom mapy, detekce smyku pred hracem (ACC), auto-prepnuti seance, rozestupy souperu od 1. kola, auto-zapis klaves pri startu, oprava cestiny v EN rezimu"
 }
