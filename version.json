@@ -1,4 +1,4 @@
 {
-    "version":  "2.21.1",
-    "notes":  "Zoom mapy, detekce smyku pred hracem (ACC), auto-prepnuti seance, rozestupy souperu od 1. kola, auto-zapis klaves pri startu, oprava cestiny v EN rezimu"
+    "version":  "2.22.0",
+    "notes":  "LMU / rFactor 2 now connects reliably and reads YOUR car (not an AI). Fixed a clash with MOZA / SimHub / dashboards that was blocking LMU, iRacing and F1. Engineer now speaks all 29 languages (not just EN/CZ). Gemini keys fixed. Cleaner track maps + a Delete-map button. Corner coaching now works while you are still improving. New: auto-start with your sim. Thanks for all the reports!"
 }
