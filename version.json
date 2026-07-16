@@ -1,4 +1,4 @@
 {
-    "version":  "2.22.1",
-    "notes":  "Hotfix: a few leftover Czech texts are now English (F1 UDP hint, offline reply). Auto-start no longer re-opens PitWise after you close it. No more false \u0027you hit a wall\u0027 when you pause the game. Clearer message when your session isn\u0027t reporting fuel usage. Thanks for the fast reports!"
+    "version":  "2.23.0",
+    "notes":  "Live gaps now come straight from ACC memory - accurate and instant, no broadcast needed. The engineer reads rival NAMES (ACC/LMU/F1) and computes the exact pace to catch any position (ask \u0027what laps do I need to catch P5\u0027). Purple now means fastest lap of the WHOLE session - and purple sectors finally light up. Voice car control works on ALL keyboard layouts (lights, wipers, TC, ABS, brake bias). OpenAI natural voice playback fixed. With an AI key every callout is rephrased fresh each time AND spoken in your language - no more English mixing. More praise for overtakes and defending. AC: exact track width + ideal line loaded straight from game files. LMU: corners, sectors and live delta unlocked. The updater now tells you exactly why an update cannot install (read-only folder, running from ZIP) and how to fix it. Thanks for all the reports!"
 }
