@@ -1,4 +1,4 @@
 {
-    "version":  "2.22.0",
-    "notes":  "LMU / rFactor 2 now connects reliably and reads YOUR car (not an AI). Fixed a clash with MOZA / SimHub / dashboards that was blocking LMU, iRacing and F1. Engineer now speaks all 29 languages (not just EN/CZ). Gemini keys fixed. Cleaner track maps + a Delete-map button. Corner coaching now works while you are still improving. New: auto-start with your sim. Thanks for all the reports!"
+    "version":  "2.22.1",
+    "notes":  "Hotfix: a few leftover Czech texts are now English (F1 UDP hint, offline reply). Auto-start no longer re-opens PitWise after you close it. No more false \u0027you hit a wall\u0027 when you pause the game. Clearer message when your session isn\u0027t reporting fuel usage. Thanks for the fast reports!"
 }
