@@ -1,4 +1,4 @@
 {
-    "version":  "2.25.1",
-    "notes":  "Hotfix: Le Mans Ultimate is now found no matter where it\u0027s installed. PitWise reads the install path straight from the running game, and if that ever fails there\u0027s a new button in Settings \u003e Application to pick the game folder yourself (remembered forever). The engineer also tells you out loud when LMU runs without the telemetry plugin - one click on the yellow bar at the top sets it up."
+    "version":  "2.25.2",
+    "notes":  "LMU telemetry hotfix: recognizes plugins installed by other apps (CrewChief/TinyPedal), clear guidance when the game runs as administrator, precise error messages during plugin setup."
 }
