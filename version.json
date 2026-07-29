@@ -1,4 +1,4 @@
 {
-    "version":  "2.25.2",
-    "notes":  "LMU telemetry hotfix: recognizes plugins installed by other apps (CrewChief/TinyPedal), clear guidance when the game runs as administrator, precise error messages during plugin setup."
+    "version":  "2.25.3",
+    "notes":  "New: beta program for testers - one button in Settings \u003e Application, enter the beta key we give you and the app switches itself (and back)."
 }
