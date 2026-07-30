@@ -1,4 +1,4 @@
 {
-    "version":  "2.25.91",
-    "notes":  "BETA: LMU spotter + track limits, iRacing slowdown/incident fixes, engineer radio in 25 languages, localized UI, Edge voice clock fix."
+    "version":  "2.25.92",
+    "notes":  "Beta: critical update-window crash fix (error 127937) - updates work again. Same fix as stable v2.25.4."
 }
