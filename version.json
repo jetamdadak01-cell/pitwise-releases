@@ -1,4 +1,4 @@
 {
-    "version":  "2.25.3",
-    "notes":  "New: beta program for testers - one button in Settings \u003e Application, enter the beta key we give you and the app switches itself (and back)."
+    "version":  "2.25.4",
+    "notes":  "Critical fix: the update window crashed (error 127937 / System.Char) and blocked automatic updates - fixed, updates now run normally again. If you are reading this, your download already worked - you are all set."
 }
