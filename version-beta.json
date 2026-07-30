@@ -1,4 +1,4 @@
 {
-    "version":  "2.25.92",
-    "notes":  "Beta: critical update-window crash fix (error 127937) - updates work again. Same fix as stable v2.25.4."
+    "version":  "2.25.93",
+    "notes":  "BETA: engineer no longer mixes languages - fixed the Gemini 400 that forced everyone offline, completed offline translations for all 25 voiced languages, voice stays consistent (Edge fallback), and the update dialog no longer crashes."
 }
