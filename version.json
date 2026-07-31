@@ -1,4 +1,4 @@
 {
-    "version":  "2.25.5",
-    "notes":  "Language hotfix: fixed the Gemini API returning error 400 during questions (validated fine but failed on ask), which forced the engineer offline and caused mixed languages. AI answers now work in your language."
+    "version":  "2.25.6",
+    "notes":  "Language fix part 2: the engineer no longer mixes in English even without an API key - added offline translations for 76 more radio phrases across all 25 voiced languages. Combined with 2.25.5 (Gemini fix), the engineer now stays in your language whether you use AI or the free offline mode."
 }
