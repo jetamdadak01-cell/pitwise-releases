@@ -1,4 +1,4 @@
 {
-    "version":  "2.25.93",
-    "notes":  "BETA: engineer no longer mixes languages - fixed the Gemini 400 that forced everyone offline, completed offline translations for all 25 voiced languages, voice stays consistent (Edge fallback), and the update dialog no longer crashes."
+    "version":  "2.25.94",
+    "notes":  "BETA: iRacing now correctly detects Practice / Qualifying / Race (updates live between sessions); microphone fixes - auto-recovers if your selected mic was unplugged, clearer messages, safer speech-model downloads; settings now save reliably even when Windows or your antivirus blocks the normal folder. Includes everything from the previous beta."
 }
