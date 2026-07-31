@@ -1,4 +1,4 @@
 {
-    "version":  "2.25.4",
-    "notes":  "Critical fix: the update window crashed (error 127937 / System.Char) and blocked automatic updates - fixed, updates now run normally again. If you are reading this, your download already worked - you are all set."
+    "version":  "2.25.5",
+    "notes":  "Language hotfix: fixed the Gemini API returning error 400 during questions (validated fine but failed on ask), which forced the engineer offline and caused mixed languages. AI answers now work in your language."
 }
