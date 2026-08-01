@@ -1,4 +1,4 @@
 {
-    "version":  "2.25.94",
-    "notes":  "BETA: iRacing now correctly detects Practice / Qualifying / Race (updates live between sessions); microphone fixes - auto-recovers if your selected mic was unplugged, clearer messages, safer speech-model downloads; settings now save reliably even when Windows or your antivirus blocks the normal folder. Includes everything from the previous beta."
+    "version":  "2.25.95",
+    "notes":  "BETA: more phrase variety - the 10 most-heard callouts now have 3 different wordings in every language (offline, no mixing); overlay re-asserts on top of the game (borderless fullscreen); spotter reacts faster (car left/right); improved Polish voice; plus the previous beta fixes (iRacing session detection, mic, settings saving, AI knows the date)."
 }
