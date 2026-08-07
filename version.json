@@ -1,4 +1,4 @@
 {
-    "version":  "2.25.6",
-    "notes":  "Language fix part 2: the engineer no longer mixes in English even without an API key - added offline translations for 76 more radio phrases across all 25 voiced languages. Combined with 2.25.5 (Gemini fix), the engineer now stays in your language whether you use AI or the free offline mode."
+    "version":  "2.25.7",
+    "notes":  "Fixes: the engineer no longer answers in English when another language is selected; invalidated laps are no longer announced as your fastest lap; far less repetition during races (weather, flags, battle and tyre callouts); iRacing now correctly detects Practice / Qualifying / Race; LMU no longer warns about cars parked in the garage; the overlay stays on top of the game (borderless mode); the microphone auto-recovers if your selected mic was unplugged; safer speech-model downloads; settings now save reliably even when Windows or your antivirus blocks the normal folder."
 }
