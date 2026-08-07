@@ -1,4 +1,4 @@
 {
-    "version":  "2.25.95",
-    "notes":  "BETA: more phrase variety - the 10 most-heard callouts now have 3 different wordings in every language (offline, no mixing); overlay re-asserts on top of the game (borderless fullscreen); spotter reacts faster (car left/right); improved Polish voice; plus the previous beta fixes (iRacing session detection, mic, settings saving, AI knows the date)."
+    "version":  "2.25.96",
+    "notes":  "BETA: phrase variety - the 10 most-heard callouts now have 3 different wordings in every language (offline, no mixing); improved Polish voice (Gosia); spotter reacts faster; invalidated laps are never announced as your fastest (incl. purple); engineer answers in your language; far less repetition during races; iRacing session detection; LMU garage-car fix; settings save reliably; UI translations completed for all selectable languages. Includes everything from stable 2.25.7."
 }
