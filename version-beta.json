@@ -1,4 +1,4 @@
 {
-    "version":  "2.25.96",
-    "notes":  "BETA: phrase variety - the 10 most-heard callouts now have 3 different wordings in every language (offline, no mixing); improved Polish voice (Gosia); spotter reacts faster; invalidated laps are never announced as your fastest (incl. purple); engineer answers in your language; far less repetition during races; iRacing session detection; LMU garage-car fix; settings save reliably; UI translations completed for all selectable languages. Includes everything from stable 2.25.7."
+    "version":  "2.25.97",
+    "notes":  "BETA: language guard from stable 2.25.8 (no English text read by a foreign voice, corrupted cached translations self-heal) plus: personal bests / fuel data / career memory survive crashes (atomic saves), Discord community button on the Feedback page, dashboard values clear when the game closes, and several stability fixes (encoding, speech queue, startup handlers)."
 }
