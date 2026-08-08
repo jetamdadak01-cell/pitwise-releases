@@ -1,4 +1,4 @@
 {
-    "version":  "2.25.7",
-    "notes":  "Fixes: the engineer no longer answers in English when another language is selected; invalidated laps are no longer announced as your fastest lap; far less repetition during races (weather, flags, battle and tyre callouts); iRacing now correctly detects Practice / Qualifying / Race; LMU no longer warns about cars parked in the garage; the overlay stays on top of the game (borderless mode); the microphone auto-recovers if your selected mic was unplugged; safer speech-model downloads; settings now save reliably even when Windows or your antivirus blocks the normal folder."
+    "version":  "2.25.8",
+    "notes":  "Language hotfix: the engineer can no longer read English text with a foreign voice. When the AI translation fails or returns English, the message is now spoken with the English voice instead of being mangled by your language voice - and previously corrupted cached translations clean themselves up automatically, so affected phrases get translated properly again."
 }
