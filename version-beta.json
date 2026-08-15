@@ -1,4 +1,4 @@
 {
-    "version":  "2.25.98",
-    "notes":  "BETA: spoken corner tips now come in the engineer's language (27 languages with proper accents, both the post-lap callout and the 'where am I losing time?' answer), iRacing slowdown penalty now gets a spoken warning instead of silence (29 languages), and new-format Gemini API keys (AQ... prefix) are now recognized - they no longer fail with a 403 error."
+    "version":  "2.26.0",
+    "notes":  "Beta channel is now the same as the new stable release v2.26.0 - this update also fixes the 2.25.98 beta build that was missing the newest translation batch (PL/EN mixing). Thanks for testing, everything you tested is now live for everyone!"
 }
