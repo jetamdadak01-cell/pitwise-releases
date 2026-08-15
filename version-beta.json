@@ -1,4 +1,4 @@
 {
-    "version":  "2.25.97",
-    "notes":  "BETA: language guard from stable 2.25.8 (no English text read by a foreign voice, corrupted cached translations self-heal) plus: personal bests / fuel data / career memory survive crashes (atomic saves), Discord community button on the Feedback page, dashboard values clear when the game closes, and several stability fixes (encoding, speech queue, startup handlers)."
+    "version":  "2.25.98",
+    "notes":  "BETA: spoken corner tips now come in the engineer's language (27 languages with proper accents, both the post-lap callout and the 'where am I losing time?' answer), iRacing slowdown penalty now gets a spoken warning instead of silence (29 languages), and new-format Gemini API keys (AQ... prefix) are now recognized - they no longer fail with a 403 error."
 }
