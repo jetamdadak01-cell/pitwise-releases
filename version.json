@@ -1,4 +1,4 @@
 {
-    "version":  "2.25.8",
-    "notes":  "Language hotfix: the engineer can no longer read English text with a foreign voice. When the AI translation fails or returns English, the message is now spoken with the English voice instead of being mangled by your language voice - and previously corrupted cached translations clean themselves up automatically, so affected phrases get translated properly again."
+    "version":  "2.26.0",
+    "notes":  "The biggest update yet: free HD natural voices (Edge, no key needed), optional local AI running on your PC (no key, no internet, no limits), the engineer speaks and answers in all 29 languages without mixing in English - including spoken corner tips in your language, more phrase variety, a faster spotter and a new Polish voice. Pit stops are now set for you in LMU/rFactor 2 via the bundled plugin, Assetto Corsa track maps load instantly from game files, the live sector strip fills sector by sector, deltas and gaps finally make sense around pit stops, iRacing slowdown penalties get a spoken warning, new-format Gemini keys (AQ...) work, your records and career data survive crashes, and there is a Discord community button right in the app."
 }
