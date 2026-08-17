@@ -1,4 +1,4 @@
 {
-    "version":  "2.26.0",
-    "notes":  "Beta channel is now the same as the new stable release v2.26.0 - this update also fixes the 2.25.98 beta build that was missing the newest translation batch (PL/EN mixing). Thanks for testing, everything you tested is now live for everyone!"
+    "version":  "2.26.1",
+    "notes":  "Beta channel aligned with stable v2.26.1 (language hotfix - stricter anti-mixing guard, 38 more translated radio calls, LMU setup guidance in your language)."
 }
