@@ -1,4 +1,4 @@
 {
-    "version":  "2.26.1",
-    "notes":  "Language hotfix: the engineer is now much stricter about never mixing English into your language. Short English sentences slipping through from the AI are caught and replaced with properly translated answers, previously corrupted cached translations clean themselves up automatically, 38 more radio calls (pit-stop confirmations, half distance, lights and wipers, TC/ABS changes and more) received offline translations in all 27 languages, and Le Mans Ultimate setup guidance now speaks your language too."
+    "version":  "2.26.2",
+    "notes":  "Hotfix: updates now install themselves even when antivirus blocks helper scripts (fixes the \u0027unable to start correctly (0xc0000142)\u0027 error during update - if updating still fails on the old version, re-download the ZIP from your Payhip link once). Voice playback got backup routes for systems where the engineer went silent after the radio beep (including Windows N editions), and the app now reports the exact cause to us so \u0027no sound\u0027 problems can finally be diagnosed and fixed."
 }
