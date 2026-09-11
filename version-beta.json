@@ -1,4 +1,4 @@
 {
-    "version":  "2.26.1",
-    "notes":  "Beta channel aligned with stable v2.26.1 (language hotfix - stricter anti-mixing guard, 38 more translated radio calls, LMU setup guidance in your language)."
+    "version":  "2.26.91",
+    "notes":  "BETA 2.26.91 - the full v2.27 feature set for testers: new look with 5 UI styles, male/female engineer voice in 9 languages (Dutch and Polish voices fixed), track limits read natively from every sim (LMU/rF2 lap-valid flag, F1 official counters incl. an F1 24 byte-offset fix), a Setup Advisor that reads your telemetry and dictates real numbers, community setups for ACC. Plus fixes: Edge cloud voice (TLS handshake), LMU spotter left/right, push-to-talk \"too short\", voice speed slider, and a broken settings.json can no longer wipe your license key. Please report anything odd through the feedback form in the app."
 }
