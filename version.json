@@ -1,4 +1,4 @@
 {
-    "version":  "2.29.4",
-    "notes":  "Korean is now available as the 30th engineer language: radio calls, corner tips and answers in Korean (Microsoft neural voice, needs internet; offline it uses the Windows Korean voice if installed)."
+    "version":  "2.29.5",
+    "notes":  "iRacing: no more \u0027tyres too hot\u0027 calls (iRacing only reports tyre temps and wear in the pits), race length and laps-to-go now work, pit voice command leaves your black-box tyre choice alone. LMU/rF2: qualifying no longer reports cars that are in the garage or pits. All sims: after restarting a race the start calls (lights out, go go go) play again. F1: no telemetry dropouts when reversing or with unknown flags."
 }
