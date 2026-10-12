@@ -1,4 +1,4 @@
 {
-    "version":  "2.29.5",
-    "notes":  "iRacing: no more \u0027tyres too hot\u0027 calls (iRacing only reports tyre temps and wear in the pits), race length and laps-to-go now work, pit voice command leaves your black-box tyre choice alone. LMU/rF2: qualifying no longer reports cars that are in the garage or pits. All sims: after restarting a race the start calls (lights out, go go go) play again. F1: no telemetry dropouts when reversing or with unknown flags."
+    "version":  "2.29.6",
+    "notes":  "Free Edge voice works again in Europe (Microsoft moved its voice server on 10 October, the app now uses the new one). Practice and qualifying: going back to the garage no longer wipes your lap times and live delta or repeats the practice plan, restart detection now only applies to races. LMU and iRacing: go go go now comes at the green flag, not when the formation lap starts. Speech recognition: the local recognizer now restarts properly after switching the model size."
 }
