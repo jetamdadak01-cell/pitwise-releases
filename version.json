@@ -1,4 +1,4 @@
 {
-    "version":  "2.29.6",
-    "notes":  "Free Edge voice works again in Europe (Microsoft moved its voice server on 10 October, the app now uses the new one). Practice and qualifying: going back to the garage no longer wipes your lap times and live delta or repeats the practice plan, restart detection now only applies to races. LMU and iRacing: go go go now comes at the green flag, not when the formation lap starts. Speech recognition: the local recognizer now restarts properly after switching the model size."
+    "version":  "2.29.7",
+    "notes":  "Microphone and voice fix for PCs where the Windows default sound device mapper is broken: push-to-talk falls back to a second recording path, and the engineer, beeps and spotter play on the right device. Clear messages when your mic is muted, set very low or sends pure silence. Go go go works again after switching from iRacing or LMU to AC or ACC."
 }
