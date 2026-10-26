@@ -1,4 +1,4 @@
 {
-    "version":  "2.29.95",
-    "notes":  "BETA 2.29.95. Microphone and voice fixes for PCs where the Windows sound mapper is broken: PitWise now records your push-to-talk through a second capture path (WASAPI) and plays the engineer, beeps and spotter on the right device even when the default mapper is dead. If your mic is muted, set very low or blocked by Windows privacy settings, the engineer now tells you exactly that instead of staying silent. Diagnostics (Settings, App) show more about your audio devices. Everything from 2.29.94 is included: crash and damage calls, race end on your own line, Edge voice fix, real gaps, go go go at the green. Not tested with every game and every headset yet - please report on Discord."
+    "version":  "2.29.96",
+    "notes":  "BETA 2.29.96 = 2.29.95 + the Edge voice fix from stable 2.29.9. Since 23 October Microsoft refused the old connection to the free Edge voice, so the engineer used the backup voice or stayed silent (Korean). Edge works again in all languages. When Microsoft refuses the voice, the engineer now says so honestly instead of blaming your internet or clock, and the Test button in Settings explains wrong ElevenLabs or OpenAI keys. Everything from 2.29.95 is included."
 }
