@@ -1,4 +1,4 @@
 {
-    "version":  "2.29.8",
-    "notes":  "PitWise 2.29.8 adds F1 25 incl. the 2026 Season Pack (24 cars) and Automobilista 2. F1: rival names and gaps, safety car, VSC, red flag, penalties, damage and fuel saving advice (no refuelling in F1); F1 23 and F1 24 get better race data. AMS2: spotter, flags, full course yellow, multiclass, track limits, weather and fuel strategy. Setup: F1 - Settings, Telemetry Settings, UDP Telemetry On, port 20777, UDP Format 2025 or 2026. AMS2 - Options, System, Shared Memory = Project CARS 2."
+    "version":  "2.29.9",
+    "notes":  "PitWise 2.29.9 fixes the free Edge voice. Since 23 October Microsoft refused the old connection, so the engineer spoke with the backup voice instead. Edge works again in all languages. The Test button in Settings now also explains wrong ElevenLabs or OpenAI keys."
 }
