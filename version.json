@@ -1,4 +1,4 @@
 {
-    "version":  "2.29.9",
-    "notes":  "PitWise 2.29.9 fixes the free Edge voice. Since 23 October Microsoft refused the old connection, so the engineer spoke with the backup voice instead. Edge works again in all languages. The Test button in Settings now also explains wrong ElevenLabs or OpenAI keys."
+    "version":  "2.29.10",
+    "notes":  "PitWise 2.29.10 adds licence activation. If you already get updates in the app, your key is saved and nothing changes for you. Otherwise PitWise asks once for the licence key from your Payhip purchase e-mail. After that it also works offline."
 }
