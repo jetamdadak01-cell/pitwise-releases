@@ -1,4 +1,4 @@
 {
-    "version":  "2.29.10",
-    "notes":  "PitWise 2.29.10 adds licence activation. If you already get updates in the app, your key is saved and nothing changes for you. Otherwise PitWise asks once for the licence key from your Payhip purchase e-mail. After that it also works offline."
+    "version":  "2.29.11",
+    "notes":  "PitWise 2.29.11: Le Mans Ultimate and rFactor 2 - the engineer no longer quotes a stuck tyre temperature. If the game does not send live tyre temperatures, PitWise uses the tyre surface temperature or tells you it cannot see them instead of guessing. Voice volume and speech speed sliders are now saved automatically."
 }
