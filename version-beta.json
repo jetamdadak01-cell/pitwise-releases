@@ -1,4 +1,4 @@
 {
-    "version":  "2.29.97",
-    "notes":  "BETA 2.29.97: big engineer update. Quieter in races, one driving tip per lap in most settings, no tips while cornering, less repeating, a session report, and questions no longer change car settings by accident. New in practice: short calls before corners, optional brake tones and track learning. Also better fuel calls in timed races and coaching from your best lap with 3D lap playback. This beta now asks for your licence key at start. These engineer changes passed automated tests and demo runs but were NOT tested in a real game yet, so please report what you find."
+    "version":  "2.29.98",
+    "notes":  "BETA 2.29.98: the free Edge voice works reliably again (2.29.97 lost that fix and often fell back to the offline voice). The engineer no longer says nobody is near you in practice when a car is ahead, and fewer lines pile up when you cross the line. Correction: the 2.29.97 notes mentioned better fuel calls in timed races and 3D lap playback, but those are not in this beta. These changes passed automated tests and demo runs but were NOT tested in a real game yet, so please report what you find."
 }
