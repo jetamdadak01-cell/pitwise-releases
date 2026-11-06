@@ -1,4 +1,4 @@
 {
-    "version":  "2.29.96",
-    "notes":  "BETA 2.29.96 = 2.29.95 + the Edge voice fix from stable 2.29.9. Since 23 October Microsoft refused the old connection to the free Edge voice, so the engineer used the backup voice or stayed silent (Korean). Edge works again in all languages. When Microsoft refuses the voice, the engineer now says so honestly instead of blaming your internet or clock, and the Test button in Settings explains wrong ElevenLabs or OpenAI keys. Everything from 2.29.95 is included."
+    "version":  "2.29.97",
+    "notes":  "BETA 2.29.97: big engineer update. Quieter in races, one driving tip per lap in most settings, no tips while cornering, less repeating, a session report, and questions no longer change car settings by accident. New in practice: short calls before corners, optional brake tones and track learning. Also better fuel calls in timed races and coaching from your best lap with 3D lap playback. This beta now asks for your licence key at start. These engineer changes passed automated tests and demo runs but were NOT tested in a real game yet, so please report what you find."
 }
