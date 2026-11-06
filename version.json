@@ -1,4 +1,4 @@
 {
-    "version":  "2.29.12",
-    "notes":  "PitWise 2.29.12 is a small update to the licence check. If you bought PitWise on Payhip nothing changes for you and your key keeps working, also offline. It adds support for time-limited keys, which need internet at each start and stop working after their end date."
+    "version":  "2.29.13",
+    "notes":  "PitWise 2.29.13 fixes the message shown when an antivirus blocks speech recognition. It used to point to a file that is no longer included. Now you can click the message to get step-by-step help. Nothing else changes."
 }
