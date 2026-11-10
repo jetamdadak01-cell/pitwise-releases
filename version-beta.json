@@ -1,4 +1,4 @@
 {
-    "version":  "2.29.98",
-    "notes":  "BETA 2.29.98: the free Edge voice works reliably again (2.29.97 lost that fix and often fell back to the offline voice). The engineer no longer says nobody is near you in practice when a car is ahead, and fewer lines pile up when you cross the line. Correction: the 2.29.97 notes mentioned better fuel calls in timed races and 3D lap playback, but those are not in this beta. These changes passed automated tests and demo runs but were NOT tested in a real game yet, so please report what you find."
+    "version":  "2.29.99",
+    "notes":  "BETA 2.29.99: fuel for timed races (ask how much fuel for 25 minutes), corner tips compared with your own best lap, 3D lap replay in History, fixed mirrored track maps, iRacing \"car closing fast behind\" warning. Fixes: no praise right after a crash or penalty, purple lap only for a real improvement, AI says numbers exactly, faster AI when Google is overloaded, engineer and spotter no longer talk over each other, mic hint when it picks up almost nothing, LMU session time. Passed automated tests and demo runs, NOT yet tested in a real game."
 }
