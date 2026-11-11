@@ -1,4 +1,4 @@
 {
-    "version":  "2.29.99",
-    "notes":  "BETA 2.29.99: fuel for timed races (ask how much fuel for 25 minutes), corner tips compared with your own best lap, 3D lap replay in History, fixed mirrored track maps, iRacing \"car closing fast behind\" warning. Fixes: no praise right after a crash or penalty, purple lap only for a real improvement, AI says numbers exactly, faster AI when Google is overloaded, engineer and spotter no longer talk over each other, mic hint when it picks up almost nothing, LMU session time. Passed automated tests and demo runs, NOT yet tested in a real game."
+    "version":  "2.29.100",
+    "notes":  "BETA 2.29.100: pre-race fuel question uses the race length from the game (no more \"you have 0 litres\"), \"1.5 hour race\" = 90 min, push-to-talk buttons that only send a short tap now work. Fixes: no false \"box, out of fuel\" mid-lap, \"set fuel for a 2 hour race\" no longer sets 2 litres, iRacing \"car closing fast\" quiet in braking zones, voice no longer silent for minutes when the internet drops, script-only updates really start the new version, beta/stable switch rollback, license server errors reported correctly, 3D replay time bar. Passed automated tests and demo runs, NOT yet tested in a real game."
 }
